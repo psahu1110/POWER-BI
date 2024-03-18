@@ -24,8 +24,11 @@
 
 
 
-## Screenshot:
-![Screenshot of Power BI Dashboard](https://github.com/psahu1110/POWER-B1/assets/114385902/82787ff4-9b2b-4591-addc-f142f3e3c461)
+# Snapshot of Dashboard (Power BI Service)
+
+![DAY 1](https://github.com/psahu1110/POWER-BI/assets/114385902/0dbf1b79-e5b9-4aa5-9b94-132c259182c8.jpg)
+
+
 
 
 
