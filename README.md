@@ -86,6 +86,30 @@
 ![DAY 3 (1)](https://github.com/psahu1110/POWER-BI/assets/114385902/7902be93-8c67-4fde-9e93-dbf91c47d58c)
 
 
+## Day 4
+
+### Clustered Column Chart: Profit Analysis Across Countries
+- **Objective**: Understand profit distribution across different countries.
+- **Steps**:
+    1. Utilized a clustered column chart.
+    2. Dragged and dropped the relevant columns onto the X and Y axes.
+    3. Applied conditional formatting to analyze profit based on discounts from minimum to maximum among countries.
+    4. Utilized features of the magnifying glass visual option for further analysis, such as average line, series, line, and data labels.
+
+### Slicers: Controlling Visualization Based on Product and Segment
+- **Objective**: Control visualizations based on specific product and segment criteria.
+- **Steps**:
+    1. Used slicers to interactively filter data.
+    2. For the first slicer, added the "Product" column to the field section and configured it to single select mode using slicer settings.
+    3. Added the "Segment" column to the field section for the second slicer, applied horizontal orientation, and enabled the "show select all" option for better visual presentation.
+    4. For the third slicer, added the "Units Sold" column to the field section.
+
+### Snapshot of Dashboard
+
+![DAY 3 (2)](https://github.com/psahu1110/POWER-BI/assets/114385902/6082e233-927c-495c-bbf7-486034d9a1da)
+
+
+
 
 
 
