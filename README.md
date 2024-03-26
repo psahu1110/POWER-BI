@@ -109,6 +109,30 @@
 ![DAY 3 (2)](https://github.com/psahu1110/POWER-BI/assets/114385902/6082e233-927c-495c-bbf7-486034d9a1da)
 
 
+## DAY 5
+
+
+### Line Chart Analysis
+
+For the first visual, the yearly sales were explored using a line chart. The date and sales columns were dragged and dropped onto the x and y axes. Due to the date format, a hierarchy was automatically created. The drill option created by the hierarchy was utilized to delve into the data, providing insights into the usage and functionality of hierarchies.
+
+### Pie Chart Analysis
+
+In the second visual, a pie chart was utilized to analyze yearly profit. The year, country, segment, product, and discount band were placed in the legend field, while profit was used for values. This visualization offered a clear understanding of profit distribution across different categories.
+
+### Treemap and Cards Analysis
+
+For the third visual, a treemap was employed to visualize sales data by year. A hierarchy named 'ba' was manually created for this purpose, enabling easy drag-and-drop functionality without the need to create hierarchies repeatedly. The 'ba' hierarchy was used for categories, while sales were represented by values. Additionally, two cards were created to display sales and profit numbers for quick access and clear understanding.
+
+### Snapshot of Dashboard
+
+![DAY 4](https://github.com/psahu1110/POWER-BI/assets/114385902/c46d23ee-2d3a-443b-86db-6912167d1bdc)
+
+
+
+
+
+
 
 
 
