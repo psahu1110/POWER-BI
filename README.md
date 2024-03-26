@@ -61,6 +61,35 @@
 ![DAY 2](https://github.com/psahu1110/POWER-BI/assets/114385902/1e431430-794e-4ed7-ba7a-8f09a6af228f)
 
 
+## DAY 3
+
+### Explored different Bar Charts:
+### Stacked Bar Chart:
+- **Objective**: Understand sales distribution across different discount bands.
+- **Steps**:
+    1. Dragged and dropped the "Sales" column onto the X-axis.
+    2. Placed the "Discount Band" column on the Y-axis.
+    3. To enhance visualization, utilized the "Year" column as the legend field for color-coded representation of sales across years.
+    4. Utilized small multiples to compare sales for each product, employing color formatting and data labels for clarity.
+
+### Clustered Bar Chart:
+- **Objective**: Compare profit across different segments.
+- **Steps**:
+    1. Duplicated the previous bar chart visualization.
+    2. Modified the chart type to a clustered bar chart.
+    3. Dragged and dropped the "Profit" column onto the Y-axis.
+    4. Placed the "Segment" column on the X-axis.
+    5. Applied necessary formatting for enhanced readability.
+
+### Snapshot of Dashboard 
+
+![DAY 3 (1)](https://github.com/psahu1110/POWER-BI/assets/114385902/7902be93-8c67-4fde-9e93-dbf91c47d58c)
+
+
+
+
+
+
 
 
 
