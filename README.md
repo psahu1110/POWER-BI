@@ -128,6 +128,22 @@ For the third visual, a treemap was employed to visualize sales data by year. A 
 
 ![DAY 4](https://github.com/psahu1110/POWER-BI/assets/114385902/c46d23ee-2d3a-443b-86db-6912167d1bdc)
 
+## DAY 6 
+
+- For day 6 explored the concept of Power Query In Power Bi
+- Loaded the dataset named sales(Excel file), Customer(csv File), Segment(excel file) using get data in Data section under home tab.
+- After loading all the 3 datasets, some data cleaning was performed in the power query editor.
+- For the Sales dataset removed the column named "Source. Name" as it was of no use for analysis and it was observed that a column named "model_color" had some null values so it was replaced with "Others" using "replace values" in "any column" section under transform tab in the power query editor.
+- For the Customer dataset, the first row was promoted as a header using "use the first row as header" in the table section under the transform tab in the power query editor.
+- For the Segment dataset promoted the first row as a header using the same method as earlier mentioned then removed blank rows using "remove rows" in "reduce rows" under the home tab and last but not least filtered null rows from the column named "segmt_category" by the unselecting null box from the dropdown.
+- After cleaning the datasets use the close and apply option in the close section under the home tab.
+- In the model view, the relationship was created between all 3 datasets.
+- A Donut Chart was added to the canvas representing the sum of gross sales amount. While creating this visual column cust seg was added to legends to segregate according to the cust segments. A card visual was also added in the middle of the donut chart representing gross sales amount and also did some formatting under the brush section.
+- The same donut chart was copy-pasted to canvas representing the sum of the order quantity and a legend was also added representing the buzz segment and a card visual was added representing the sum of the order quantity.
+
+### Snapshot of dashboard
+
+![DAY 5](https://github.com/psahu1110/POWER-BI/assets/114385902/5b85ea76-8d5b-40ad-a386-2c79b70b35f2)
 
 
 
