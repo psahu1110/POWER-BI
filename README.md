@@ -145,6 +145,24 @@ For the third visual, a treemap was employed to visualize sales data by year. A 
 
 ![DAY 5](https://github.com/psahu1110/POWER-BI/assets/114385902/5b85ea76-8d5b-40ad-a386-2c79b70b35f2)
 
+## DAY 7
+
+- Loaded the dataset named Revenue sharing(excel file) using the Excel workbook option in the Data section under the home tab.
+- In power query performed some data cleaning actions like splitting the team analyst column into rows using advanced options in split columns under the transform tab.[Transform-split column-split by delimiter-advanced options-select rows-then click ok.]
+- Then cleaned and trimmed the test using the format option in the text column section under the transform tab in power query.
+- Using reference table to project details made a bridge table named project info.[The bridge table is a copy of the original table with genuine information]
+- In the Bridge table named project info grouped the team analysts column using group by function in the table section under the home tab in power query.
+ 
+![group by](https://github.com/psahu1110/POWER-BI/assets/114385902/775d3bcd-7a66-4d40-ad12-3d1e7f3b8922)
+- Then make a new column name contribution by selecting the project fee column and then the no of employee column using the divide function in the statistics option under the transform tab.
+- Now the dataset is cleaned choose the close and apply option under the home tab.
+- Now for visualization, we used bar chart, funnel chart, and tree map. 
+
+![DAY 6](https://github.com/psahu1110/POWER-BI/assets/114385902/68147405-4d35-4686-b257-3a40a2182638)
+
+
+
+
 
 
 
